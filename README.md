@@ -1,3 +1,5 @@
+![image](https://github.com/Isthifa/testimonials-react/assets/87200953/7985cb18-fc62-4bbf-9405-4ea6f687b3c6)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
